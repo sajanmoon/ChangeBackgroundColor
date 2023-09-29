@@ -71,6 +71,11 @@
   background: maroon;
 
 }
+.black {
+  color: white;
+  background: black;
+
+}
 
 @media screen and (max-width: 768px) {
   .container {
