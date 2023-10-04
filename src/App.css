@@ -61,21 +61,29 @@
   background: orange;
 
 }
-.purple {
+
+
+.indigo {
   color: white;
-  background: purple;
+  background: indigo;
 
 }
-.maroon {
+.violet {
   color: white;
-  background: maroon;
+  background: violet;
 
 }
-.black {
-  color: white;
-  background: black;
-
+.footer {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
 }
+
+.footer p {
+  margin-bottom: 0;
+  color: #555;
+}
+
 
 @media screen and (max-width: 768px) {
   .container {
